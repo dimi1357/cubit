@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ai.getleo.cubit",
+      "sha256_cert_fingerprints": [
+        "B0:C1:E5:FF:EE:04:87:B6:C4:73:B9:DF:AC:62:63:B7:3E:84:9D:1A:E4:FF:4D:E4:52:75:E3:32:D4:D3:1B:1A"
+      ]
+    }
+  }
+]
